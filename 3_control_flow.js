@@ -118,3 +118,11 @@ if (true || true); {
 if (false || false) {
     console.log('in the second if');
 }
+
+// RECAP
+/* 
+    - What is control flow?
+    - if/else/if else
+    - logical operators
+*/
+
