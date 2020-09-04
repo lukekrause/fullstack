@@ -106,7 +106,7 @@ if (boolean1 && boolean2 === true)  {
 
 
 const myMnemonic = (firstWord, secondWord, thirdWord, fourthWord) => {
-   let mnemonic '':
+   let mnemonic = '';
    
 if (firstWord !== undefined) mnemonic += firstWord [0];
 if (secondWord !== undefined) mnemonic += secondWord [0];
